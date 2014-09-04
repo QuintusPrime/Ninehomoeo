@@ -14,5 +14,20 @@
 //= require jquery_ujs
 //= require bootstrap-sprockets
 //= require turbolinks
-//= require_tree .
+//= require jquery.stellar.min
+//= require jquery.scrollUp.min
+//= require jquery.prettyPhoto
+//= require jquery.zoom
+//= require smoothscroll
+//= require classie
+//= require gmaps
+//= require home
+//= require html5shiv
+
+//= require price-range
+//= require smoothscroll
+//= require main
+
+
+
 
