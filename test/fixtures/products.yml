@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  img1: MyString
+  img2: MyString
+  img3: MyString
+  genre: MyString
+  subgenre: MyString
+  desc: MyText
+  price: 1
+  vendor_id: 1
+
+two:
+  name: MyString
+  img1: MyString
+  img2: MyString
+  img3: MyString
+  genre: MyString
+  subgenre: MyString
+  desc: MyText
+  price: 1
+  vendor_id: 1
